@@ -27,5 +27,9 @@ namespace XGame.Domain.Entities
         {get; set;}       
         #endregion
 
+        public void Validar() 
+        {
+        
+        }
     }
 }
